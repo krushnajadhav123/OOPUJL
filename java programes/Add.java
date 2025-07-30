@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Gaurav{
+public class Add{
  
 public static void main(String[] args)
 {
